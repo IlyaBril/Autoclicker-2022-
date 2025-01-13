@@ -1,7 +1,7 @@
 from tkinter import *
 from tkinter import ttk
-from Log_Read_writecsv_2 import execute
-from write_to_file_class_try import write_to, stop, start
+from Log_Read import execute
+from write_to_file import write_to, stop, start
 
 root = Tk()
 root.title("Автоматизатор")
